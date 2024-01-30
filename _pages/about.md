@@ -10,6 +10,7 @@ redirect_from:
 Hi! I'm Wei-Lun, an Assistant Professor at the University of South Carolina in the Department of Mathematics. Previously, I served as a Research Postdoctoral Fellow at the University of Virginia, working with [Ken Ono](https://uva.theopenscholar.com/ken-ono/). I recently earned my Ph.D. from Texas A&M University under the guidance of [Riad Masri](https://people.tamu.edu/~masri/). My research lies in algebraic and analytic number theory, arithmetic geometry, and combinatorics. I specialize in areas such as automorphic and modular forms, arithmetic statistics, elliptic curves, L-functions, number fields, and partitions in representation theory. Occasionally, I use high-performance computing in my research, and during my time at UVA, I was a frequent user of [RIVANNA](https://www.rc.virginia.edu/userinfo/rivanna/overview/) (UVA High-Performance Computing).
 ---
 
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
