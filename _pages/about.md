@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hi! I'm Wei-Lun, an Assistant Professor at the University of South Carolina in the Department of Mathematics. Previously, I served as a Research Postdoctoral Fellow at the University of Virginia, working with [Ken Ono](https://uva.theopenscholar.com/ken-ono/). I recently earned my Ph.D. from Texas A&M University under the guidance of [Riad Masri](https://people.tamu.edu/~masri/). My research lies in algebraic and analytic number theory, arithmetic geometry, and combinatorics. I specialize in areas such as automorphic and modular forms, arithmetic statistics, elliptic curves, L-functions, number fields, and partitions in representation theory. Occasionally, I use high-performance computing in my research, and during my time at UVA, I was a frequent user of RIVANNA (UVA High-Performance Computing).
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
