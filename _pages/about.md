@@ -11,9 +11,8 @@ Hi! I'm Wei-Lun, an Assistant Professor at the University of South Carolina in t
 
 
 
-<br><br>
-<hr>
-
+<br>
+<hr style="height: 3px; color: #333; background-color: #333; border: none;">
 
 A data-driven personal website
 ======
