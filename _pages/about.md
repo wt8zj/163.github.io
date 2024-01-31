@@ -28,7 +28,7 @@ Hi! I'm Wei-Lun, an Assistant Professor at the University of South Carolina in t
 * R. Masri and W.-L. Tsai, *Equidistribution of Fourier coefficients of integral weight Maass-Poincar´e series*, Advances in Mathematics **409** (2022), Part A. [Publisher's Version](https://www.sciencedirect.com/science/article/abs/pii/S0001870822004546).
 * M.J. Griffin, K. Ono, and W.-L. Tsai, *Tamagawa products of elliptic curves over Q*, The Quarterly Journal of Mathematics (Oxford) [Sir Michael Atiyah Memorial Issue] **72** (2021), 1517--1543 ([arXiv](https://arxiv.org/abs/2105.03513)). [Publisher's Version](https://academic.oup.com/qjmath/article-abstract/72/4/1517/6382235?redirectedFrom=fulltext).
 
-<sub style="font-size: larger;">&rarr; [More](https://wt8zj.github.io/163.github.io//publications/)</sub>
+<sub style="font-size: medium;">&rarr; [More](https://wt8zj.github.io/163.github.io//publications/)</sub>
 
 
 <!--
