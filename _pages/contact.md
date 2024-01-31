@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<span style="margin-bottom: 20px; display: block;"></span> <!-- This adds vertical space -->
 
 <span style="font-size: 0.8em;">Address:</span>
 ======
