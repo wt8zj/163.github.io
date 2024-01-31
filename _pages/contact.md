@@ -11,7 +11,7 @@ redirect_from:
 <div style="display: flex; justify-content: space-between;">
 
   <div style="flex-basis: 48%;">
-    <span style="font-size: 0.8em;">Address:</span>
+    <span style="font-size: 0.8em;">**Address:**</span>
     <hr style="margin: 5px 0;">
     Department of Mathematics<br>
     1523 Greene Street<br>
@@ -21,10 +21,10 @@ redirect_from:
   </div>
 
   <div style="flex-basis: 48%;">
-    <span style="font-size: 0.8em;">Email:</span>
+    <span style="font-size: 0.8em;">**Email:**</span>
     <hr style="margin: 5px 0;">
-    * [weilun@mailbox.sc.edu](mailto:weilun@mailbox.sc.edu)<br>
-    * [tsaiwlun@gmail.com](mailto:tsaiwlun@gmail.com)
+    - [weilun@mailbox.sc.edu](mailto:weilun@mailbox.sc.edu)<br>
+    - [tsaiwlun@gmail.com](mailto:tsaiwlun@gmail.com)
   </div>
 
 </div>
