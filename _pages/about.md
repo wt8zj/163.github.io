@@ -23,7 +23,10 @@ Hi! I'm Wei-Lun, an Assistant Professor at the University of South Carolina in t
 **Recent Publications**
 
 * M.J. Griffin, K. Ono K, W.-L. Tsai, *Distributions of hook lengths in integer partitions*. Proceedings of the American Mathematical Society, Series B, in press ([arXiv](https://arxiv.org/abs/2201.06630)).
-* 
+* J.S. Balakrishnan, W. Craig, K. Ono, and W.-L. Tsai, *Variants of Lehmer’s speculation for newforms*, Advances in Mathematics. **428** (2023), 109--141 ([arXiv](https://arxiv.org/abs/2005.10354)). [Publisher's Version](https://doi.org/10.1016/j.aim.2023.109141).
+* J.S. Balakrishnan, K. Ono, and W.-L. Tsai, *Even Values of Ramanujan’s Tau-Function*, La Matematica **1** (2022), 395--403 ([arXiv](https://arxiv.org/abs/2102.00111)). [Publisher's Version](https://link.springer.com/article/10.1007/s44007-021-00005-8).
+* R. Masri and W.-L. Tsai, *Equidistribution of Fourier coefficients of integral weight Maass-Poincar´e series*, Advances in Mathematics **409** (2022), Part A. [Publisher's Version](https://www.sciencedirect.com/science/article/abs/pii/S0001870822004546).
+* M.J. Griffin, K. Ono, and W.-L. Tsai, *Tamagawa products of elliptic curves over Q*, The Quarterly Journal of Mathematics (Oxford) [Sir Michael Atiyah Memorial Issue] **72** (2021), 1517--1543 ([arXiv](https://arxiv.org/abs/2105.03513)). [Publisher's Version](https://academic.oup.com/qjmath/article-abstract/72/4/1517/6382235?redirectedFrom=fulltext).
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
