@@ -9,17 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="font-size: 1.2em;">Address:</span>
+<span style="font-size: 1.1em;">Address:</span>
 ======
-LeConte College Rm 450,
-
-Department of Mathematics, 
-
-University of South Carolina,
-
+LeConte College Rm 450,<br>
+Department of Mathematics,<br>
+University of South Carolina,<br>
 1523 Greene St., Columbia, SC 29208
 
-<span style="font-size: 1.2em;">Email:</span>
+<span style="font-size: 1.1em;">Email:</span>
 ======
 * [weilun@mailbox.sc.edu](mailto:weilun@mailbox.sc.edu)
 * [tsaiwlun@gmail.com](mailto:tsaiwlun@gmail.com)
