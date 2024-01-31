@@ -11,7 +11,7 @@ redirect_from:
 
 <span style="font-size: 0.8em;">Address:</span>
 ======
-**Department of Mathematics**<br>
+Department of Mathematics<br>
 1523 Greene Street<br>
 LeConte College Rm 450<br>
 University of South Carolina<br>
