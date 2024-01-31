@@ -6,18 +6,25 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<span style="margin-bottom: 20px; display: block;"></span> <!-- This adds vertical space -->
+<div style="margin-bottom: 20px; display: block;"></div>
 
-<span style="font-size: 0.8em;">Address:</span>
-======
-Department of Mathematics<br>
-1523 Greene Street<br>
-LeConte College Rm 450<br>
-University of South Carolina<br>
-Columbia, SC 29208, USA
+<div style="display: flex; justify-content: space-between;">
 
-<span style="font-size: 0.8em;">Email:</span>
-======
-* [weilun@mailbox.sc.edu](mailto:weilun@mailbox.sc.edu)
-* [tsaiwlun@gmail.com](mailto:tsaiwlun@gmail.com)
-  
+  <div style="flex-basis: 48%;">
+    <span style="font-size: 0.8em;">Address:</span>
+    <hr style="margin: 5px 0;">
+    Department of Mathematics<br>
+    1523 Greene Street<br>
+    LeConte College Rm 450<br>
+    University of South Carolina<br>
+    Columbia, SC 29208, USA
+  </div>
+
+  <div style="flex-basis: 48%;">
+    <span style="font-size: 0.8em;">Email:</span>
+    <hr style="margin: 5px 0;">
+    * [weilun@mailbox.sc.edu](mailto:weilun@mailbox.sc.edu)<br>
+    * [tsaiwlun@gmail.com](mailto:tsaiwlun@gmail.com)
+  </div>
+
+</div>
