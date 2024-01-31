@@ -6,8 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}<br>
+<span style="line-height: 1.2;">{% include base_path %},</span><br>
 
 <span style="font-size: 0.8em;">Address:</span>
 ======
