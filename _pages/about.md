@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Wei-Lun, an Assistant Professor at the University of South Carolina in the Department of Mathematics. Previously, I served as a Research Postdoctoral Fellow at the University of Virginia, working with [Ken Ono](https://uva.theopenscholar.com/ken-ono/).  I recently obtained my Ph.D. from Texas A&M University, advised by [Riad Masri](https://people.tamu.edu/~masri/). My research lies in algebraic and analytic number theory, arithmetic geometry, and combinatorics. I specialize in areas such as automorphic and modular forms, arithmetic statistics, elliptic curves, *L*-functions, number fields, and partitions in representation theory. Occasionally, I use high-performance computing in my research, and during my time at UVA, I was a frequent user of [RIVANNA](https://www.rc.virginia.edu/userinfo/rivanna/overview/) (UVA High-Performance Computing).
+Hi! I'm Wei-Lun, an Assistant Professor at the University of South Carolina in the Department of Mathematics. Previously, I served as a Research Postdoctoral Fellow at the University of Virginia, working with [Ken Ono](https://uva.theopenscholar.com/ken-ono/).  I recently obtained my Ph.D. from Texas A&M University with guidance from [Riad Masri](https://people.tamu.edu/~masri/). My research lies in algebraic and analytic number theory, arithmetic geometry, and combinatorics. I specialize in areas such as automorphic and modular forms, arithmetic statistics, elliptic curves, *L*-functions, number fields, and partitions in representation theory. Occasionally, I use high-performance computing in my research, and during my time at UVA, I was a frequent user of [RIVANNA](https://www.rc.virginia.edu/userinfo/rivanna/overview/) (UVA High-Performance Computing).
 
 
 <hr class="my-horizontal-rule">
@@ -28,7 +28,8 @@ Hi! I'm Wei-Lun, an Assistant Professor at the University of South Carolina in t
 * R. Masri and W.-L. Tsai, *Equidistribution of Fourier coefficients of integral weight Maass-Poincar´e series*, Advances in Mathematics **409** (2022), Part A. [Publisher's Version](https://www.sciencedirect.com/science/article/abs/pii/S0001870822004546).
 * M.J. Griffin, K. Ono, and W.-L. Tsai, *Tamagawa products of elliptic curves over Q*, The Quarterly Journal of Mathematics (Oxford) [Sir Michael Atiyah Memorial Issue] **72** (2021), 1517--1543 ([arXiv](https://arxiv.org/abs/2105.03513)). [Publisher's Version](https://academic.oup.com/qjmath/article-abstract/72/4/1517/6382235?redirectedFrom=fulltext).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<sub>&rarr; [More](https://wt8zj.github.io/163.github.io//publications/)</sub>
+
 
 <!--
 
