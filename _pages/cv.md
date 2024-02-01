@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, Texas A&M University, 2015-2020
-* B.S & M.S. in Mathematics, National Taiwan University, 2007-2012
+* Ph.D. in Mathematics, Texas A&M University, 2015-2020
+* B.S. & M.Sc. in Mathematics, National Taiwan University, 2007-2012
 
 Employment
 ======
