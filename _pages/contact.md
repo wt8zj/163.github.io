@@ -24,8 +24,7 @@ redirect_from:
     <span style="font-size: 0.8em; font-weight: bold;">**Email:**</span>
     <hr style="margin: 5px 0;">
     - [weilun@mailbox.sc.edu](mailto:weilun@mailbox.sc.edu)  
-    - [tsaiwlun@gmail.com](mailto:tsaiwlun@gmail.com)
+      [tsaiwlun@gmail.com](mailto:tsaiwlun@gmail.com)
   </div>
 
 </div>
-
