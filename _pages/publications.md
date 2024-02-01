@@ -14,7 +14,7 @@ redirect_from:
 * M.J. Griffin, K. Ono, and W.-L. Tsai, *Tamagawa products of elliptic curves over Q*, The Quarterly Journal of Mathematics (Oxford) [Sir Michael Atiyah Memorial Issue] **72** (2021), 1517--1543 ([arXiv](https://arxiv.org/abs/2105.03513)). [Publisher's Version](https://academic.oup.com/qjmath/article-abstract/72/4/1517/6382235?redirectedFrom=fulltext).
 
 
-
+<!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -24,3 +24,4 @@ redirect_from:
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
