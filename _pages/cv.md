@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: ["CV"](http://academicpages.github.io/files/cv-brief.pdf)
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+cv_link: "http://academicpages.github.io/files/cv-brief.pdf"
 ---
 
 {% include base_path %}
+Download my CV [here]({{ page.cv_link }})
 
 Education
 ======
