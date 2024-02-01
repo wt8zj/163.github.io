@@ -5,16 +5,11 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-cv_link: "files/cv-brief.pdf"
+cv_link: "https://github.com/wt8zj/163.github.io/blob/master/files/cv-brief.pdf"
 ---
 
 {% include base_path %}
 Download my CV [here]({{ page.cv_link }})
-
-Education
-======
-* Ph.D. in Mathematics, Texas A&M University, 2015-2020
-* B.S. & M.Sc. in Mathematics, National Taiwan University, 2007-2012
 
 Employment
 ======
@@ -37,6 +32,17 @@ Employment
 * Research Assistant, 2013-2014
   * Institute of Mathematics, Academia Sinica
   * Mentor: Chia-Fu Yu
+
+Education
+======
+* Ph.D. in Mathematics, Texas A&M University, 2015-2020
+  * Thesis Title: *The distribution of Fourier coefficients of weak Maass forms*
+  * Advisor: Riad Masri
+  
+***
+
+* B.S. & M.Sc. in Mathematics, National Taiwan University, 2007-2012
+  * Advisor: Ki-Seng Tan 
  
 <!--
   
