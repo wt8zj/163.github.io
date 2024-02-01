@@ -17,14 +17,14 @@ Education
 Employment
 ======
 * Assistant Professor, 2023-present
-  * University of South Carolina
+  * University of South Carolina<br>
     
 * Research Postdoctoral Fellow, 2020-2023
   * University of Virginia
-  * Mentor: Ken Ono
+  * Mentor: Ken Ono<br>
     
 * Visiting Scientist, Auguast 2021 
-  * Max Planck Institute for Mathematics
+  * Max Planck Institute for Mathematics<br>
 
 * Research Assistant, 2013-2014
   * Institute of Mathematics, Academia Sinica
