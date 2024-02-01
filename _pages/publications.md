@@ -13,6 +13,8 @@ redirect_from:
 * R. Masri and W.-L. Tsai, *Equidistribution of Fourier coefficients of integral weight Maass-Poincaré series*, Advances in Mathematics **409** (2022), Part A. [Publisher's Version](https://www.sciencedirect.com/science/article/abs/pii/S0001870822004546).
 * M.J. Griffin, K. Ono, and W.-L. Tsai, *Tamagawa products of elliptic curves over Q*, The Quarterly Journal of Mathematics (Oxford) [Sir Michael Atiyah Memorial Issue] **72** (2021), 1517--1543 ([arXiv](https://arxiv.org/abs/2105.03513)). [Publisher's Version](https://academic.oup.com/qjmath/article-abstract/72/4/1517/6382235?redirectedFrom=fulltext).
 
+* A. Iannuzzi, B.D. Kim, R. Masri, A. Mathers, M. Ross, and W.-L. Tsai, *Nonvanishing of Hecke L-functions and Bloch-Kato p-Selmer groups*, Mathematical Research Letters **26** (2019), 1145--1177 [Publisher's Version](https://www.intlpress.com/site/pub/pages/journals/items/mrl/content/vols/0026/0004/a008/).
+
 
 <!--
 {% if author.googlescholar %}
