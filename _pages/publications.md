@@ -12,12 +12,10 @@ redirect_from:
 * J.S. Balakrishnan, K. Ono, and W.-L. Tsai, *Even Values of Ramanujan’s Tau-Function*, La Matematica **1** (2022), 395--403 ([arXiv](https://arxiv.org/abs/2102.00111)). [Publisher's Version](https://link.springer.com/article/10.1007/s44007-021-00005-8).
 * R. Masri and W.-L. Tsai, *Equidistribution of Fourier coefficients of integral weight Maass-Poincaré series*, Advances in Mathematics **409** (2022), Part A. [Publisher's Version](https://www.sciencedirect.com/science/article/abs/pii/S0001870822004546).
 * M.J. Griffin, K. Ono, and W.-L. Tsai, *Tamagawa products of elliptic curves over Q*, The Quarterly Journal of Mathematics (Oxford) [Sir Michael Atiyah Memorial Issue] **72** (2021), 1517--1543 ([arXiv](https://arxiv.org/abs/2105.03513)). [Publisher's Version](https://academic.oup.com/qjmath/article-abstract/72/4/1517/6382235?redirectedFrom=fulltext).
-* K
-* P
-* P
-* P
-* P
-* 
+* M.J. Griffin, K. Ono K, W.-L. Tsai, *Heights of points on elliptic curves over Q*. Proceedings of the American Mathematical Society **149** (2021), 5093--5100 ([arXiv](https://arxiv.org/abs/2007.09514)). [Publisher's Version](https://www.ams.org/journals/proc/2021-149-12/S0002-9939-2021-15605-0/home.html).
+* M.J. Griffin, K. Ono K, W.-L. Tsai, *Quadratic twists of elliptic curves and class numbers*. Journal of Number Theory **227** (2021), 1--29 ([arXiv](https://arxiv.org/abs/2006.01063)). [Publisher's Version](https://www.sciencedirect.com/science/article/abs/pii/S0022314X21000950).
+* A. Barquero-Sanchez, R. Masri, W.-L. Tsai, *Stark units and special Gamma values*, Research in Number Theory **7** (2021), Article number: 38. [Publisher's Version](https://link.springer.com/article/10.1007/s40993-021-00268-8).
+* A. Hamakiotes, A. Kriegman, W.-L. Tsai, *Asymptotic distribution of the partition crank*, The Ramanujan Journal **56** (2021), 803--820 ([arXiv](https://arxiv.org/abs/1909.12806v3)). [Publisher's Version](https://link.springer.com/article/10.1007/s11139-021-00477-w).
 * N. Khaochim, R. Masri, and W.-L. Tsai, *The asymptotic distribution of traces of weak Maass forms*, Mathematika **67** (2021), 739--787 [Publisher's Version](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/mtk.12097).
 * H. Ellers, M. Kenney, R. Masri, W.-L. Tsai, *Effective bounds for traces of singular moduli*, Journal of Number Theory **212** (2020), 1--17 [Publisher's Version](https://www.sciencedirect.com/science/article/abs/pii/S0022314X20300196?via%3Dihub=).
 * N. Khaochim, R. Masri, and W.-L. Tsai, *An effective bound for the partition function*, Research in Number Theory **5** (2019), Article number: 14. [Publisher's Version](https://link.springer.com/article/10.1007/s40993-019-0151-4).
