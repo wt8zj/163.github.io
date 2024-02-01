@@ -16,15 +16,19 @@ Education
 
 Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor, 2023-present
+  * University of South Carolina
+    
+* Research Postdoctoral Fellow, 2020-2023
+  * University of Virginia
+  * Mentor: Ken Ono
+    
+* Visiting Scientist, Auguast 2021 
+  * Max Planck Institute for Mathematics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant, 2013-2014
+  * Institute of Mathematics, Academia Sinica
+  * Mentor: Chia-Fu Yu
  
 <!--
   
