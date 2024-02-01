@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-cv_link: "https://raw.githubusercontent.com/wt8zj/163.github.io/master/files/cv-brief.pdf"
+cv_link: "https://raw.githubusercontent.com/wt8zj/163.github.io/master/files/cv(Tsai, W.-L.).pdf"
 ---
 
 {% include base_path %}
