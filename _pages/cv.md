@@ -20,7 +20,7 @@ Employment
 
 * Research Postdoctoral Fellow, 2020-2023
   * University of Virginia
-  * Mentor: Ken Ono
+  * Mentor: [Ken Ono](https://uva.theopenscholar.com/ken-ono/)
     
 ***
 
@@ -31,18 +31,18 @@ Employment
 
 * Research Assistant, 2013-2014
   * Institute of Mathematics, Academia Sinica
-  * Mentor: Chia-Fu Yu
+  * Mentor: [Chia-Fu Yu](https://www.math.sinica.edu.tw/www/people/websty5_20e.jsp?owner=chiafu)
 
 Education
 ======
 * Ph.D. in Mathematics, Texas A&M University, 2015-2020
   * Thesis Title: *The distribution of Fourier coefficients of weak Maass forms*
-  * Advisor: Riad Masri
+  * Advisor: [Riad Masri](https://www.math.tamu.edu/directory/formalpg.php?user=masri)
   
 ***
 
 * B.S. & M.Sc. in Mathematics, National Taiwan University, 2007-2012
-  * Advisor: Ki-Seng Tan 
+  * Advisor: [Ki-Seng Tan](http://www.math.ntu.edu.tw/en/entity_people/entity_people/21476) 
  
 <!--
   
