@@ -41,8 +41,7 @@
 @import "print";
 
 .my-horizontal-rule {
-  height: 3px;
-  color: #333;
-  background-color: #333;
-  border: none;
+  border-top: 2px solid #333; /* Very dark grey color (#333) */
+  margin: 20px 0; /* Adjust the top and bottom margins */
 }
+
