@@ -23,8 +23,8 @@ redirect_from:
   <div style="flex-basis: 48%;">
     <span style="font-size: 1em; font-weight: bold;">Email:</span>
     <hr style="margin: 5px 0;">
-    weilun  [at]  mailbox.sc.edu<br>
-    tsaiwlun  [at]  gmail.com
+  *  weilun  [at]  mailbox.sc.edu<br>
+ * tsaiwlun  [at]  gmail.com
   </div>
 
 </div>
