@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2023-spring-teaching-1
 venue: "University of Virginia, Department of Mathematics"
-date: 2-1-2021
+date: 2-1-2023
 location: "Charlotteville, Virginia"
 ---
 
