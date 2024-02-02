@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
 
 ---
+
+***
+
 * M.J. Griffin, K. Ono K, and W.-L. Tsai, *Distributions of hook lengths in integer partitions*, Proceedings of the American Mathematical Society, Series B, in press ([arXiv](https://arxiv.org/abs/2201.06630)).
 *  J.S. Balakrishnan, W. Craig, K. Ono, and W.-L. Tsai, *Corrigendum to variants of Lehmer’s speculation for newforms*, Advances in Mathematics **435** (2023), Part A ([arXiv](https://arxiv.org/abs/2005.10354)). [Publisher's Version](https://www.sciencedirect.com/science/article/abs/pii/S0001870823002840?via%3Dihub).
 * M.J. Griffin, K. Ono, L. Rolen, and W.-L. Tsai, *Limiting Betti distributions of Hilbert schemes on n points*, Canadian Mathematical Bulletin **66** (2023), 243--258 ([arXiv](https://arxiv.org/abs/2112.05279)). [Publisher's Version](https://doi.org/10.4153/S0008439522000261).
@@ -23,8 +26,13 @@ redirect_from:
 * N. Khaochim, R. Masri, and W.-L. Tsai, *An effective bound for the partition function*, Research in Number Theory **5** (2019), Article number: 14. [Publisher's Version](https://link.springer.com/article/10.1007/s40993-019-0151-4).
 * A. Iannuzzi, B.D. Kim, R. Masri, A. Mathers, M. Ross, and W.-L. Tsai, *Nonvanishing of Hecke L-functions and Bloch-Kato p-Selmer groups*, Mathematical Research Letters **26** (2019), 1145--1177 [Publisher's Version](https://www.intlpress.com/site/pub/pages/journals/items/mrl/content/vols/0026/0004/a008/).
 
+***
+
 Preprints <span style="font-size: smaller;">(several more in preparation)</span>
 ======
+
+***
+
 * R. Masri and W.-L. Tsai, *Equidistribution of Fourier coefficients of half-integral weight Maass-Poincaré series*, submitted for publication.
 * R. Masri, F. Thorne, W.-L. Tsai and J. Wang, *Malle’s conjecture for G × A, with G = S3, S4, S5*, submitted for publication ([arXiv](https://arxiv.org/abs/2004.04651)).
 
