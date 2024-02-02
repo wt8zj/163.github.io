@@ -12,6 +12,19 @@ Hi! I'm Wei-Lun, an Assistant Professor at the University of South Carolina in t
 
 <hr class="my-horizontal-rule">
 
+**UofSC Mathematics Department Colloquium**
+
+
+[Regular time and location: Thursdays at 4:30 pm, LeConte 444](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/beyond_classroom/colloquia_and_seminars/colloquia/index.php)
+
+
+<hr class="my-horizontal-rule">
+
+**Recent Publications**
+
+
+<hr class="my-horizontal-rule">
+
 **UofSC Algebra, Geometry, and Number Theory Seminar**
 
 
