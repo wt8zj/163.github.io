@@ -14,6 +14,7 @@ location: "Columbia, South Carolina"
 **References:** <br>
 1. Daniel A. Marcus, *Number Fields*. Springer Cham 2018 <br>
 2. Jürgen Neukirch, *Algebraic Number Theory*. Springer Berlin, Heidelberg 1999 <br>
+
 **Many others are highly recommended:** <br>
 1. [Michael Filaseta’s notes](http://www.math.sc.edu/~filaseta/gradcourses/TheMath784Notes.pdf) <br>
 2. J.S. Milne, Algebraic Number Theory <br>
