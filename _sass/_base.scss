@@ -175,9 +175,7 @@ li ol {
 /*
    Media and embeds
    ========================================================================== */
-img.profile-image {
-  border-radius: 0; /* or set to your desired value */
-}
+
 
 
 /* Figures and images */
@@ -200,7 +198,7 @@ figure {
 
   img {
     width: 100%;
-    border-radius: 0;
+    border-radius: 0%;
     -webkit-transition: $global-transition;
     transition: $global-transition;
   }
