@@ -2,9 +2,9 @@
 title: "Math 3310 Basic Real Analysis (Recitation Instructor)"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2020-fall-teaching-2
+permalink: /teaching/2021-spring-teaching-1
 venue: "University of Virginia, Department of Mathematics"
-date: 22-8-2020
+date: 1-1-2021
 location: "Charlotteville, Virginia"
 ---
 
