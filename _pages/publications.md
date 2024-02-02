@@ -10,6 +10,7 @@ redirect_from:
 ***
 
 * M.J. Griffin, K. Ono K, and W.-L. Tsai, *Distributions of hook lengths in integer partitions*, Proceedings of the American Mathematical Society, Series B, in press ([arXiv](https://arxiv.org/abs/2201.06630)).
+<br><br> <!-- Add more line breaks as needed -->
 *  J.S. Balakrishnan, W. Craig, K. Ono, and W.-L. Tsai, *Corrigendum to variants of Lehmer’s speculation for newforms*, Advances in Mathematics **435** (2023), Part A ([arXiv](https://arxiv.org/abs/2005.10354)). [Publisher's Version](https://www.sciencedirect.com/science/article/abs/pii/S0001870823002840?via%3Dihub).
 * M.J. Griffin, K. Ono, L. Rolen, and W.-L. Tsai, *Limiting Betti distributions of Hilbert schemes on n points*, Canadian Mathematical Bulletin **66** (2023), 243--258 ([arXiv](https://arxiv.org/abs/2112.05279)). [Publisher's Version](https://doi.org/10.4153/S0008439522000261).
 * J.S. Balakrishnan, W. Craig, K. Ono, and W.-L. Tsai, *Variants of Lehmer’s speculation for newforms*, Advances in Mathematics **428** (2023), 109--141 ([arXiv](https://arxiv.org/abs/2005.10354)). [Publisher's Version](https://doi.org/10.1016/j.aim.2023.109141).
