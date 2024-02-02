@@ -14,7 +14,7 @@ Calculus, Applications of Derivatives and Integrals. Four classroom hours and on
 week.
 
 
-**References:**  *Thomas’ Calculus Early Transcendentals*, 15th edition, by Joel R. Hass; Christopher E. Heil; Maurice D. Weir; Przemyslaw Bogacki.
+**References:**  *Thomas’ Calculus Early Transcendentals*, 15th edition, by Joel R. Hass; Christopher E. Heil; Maurice D. Weir; Przemyslaw Bogacki
 
 
 <!--
