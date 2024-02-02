@@ -1,15 +1,21 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+title: "REU (Graduate Student Mentor)"
+collection: mentoring
+type: "Undergraduate research"
+permalink: /mentoring/2017-summer-mentoring-1
+venue: "Texas A&M University, Mathematics"
 date: 2014-01-01
-location: "City, Country"
+location: "College Station, Texas"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Semester
+Summer
+Year offered
+2017
+Link
+https://www.math.tamu.edu/undergraduate/research/REU/
 
+<!--
 Heading 1
 ======
 
@@ -18,3 +24,4 @@ Heading 2
 
 Heading 3
 ======
+-->
