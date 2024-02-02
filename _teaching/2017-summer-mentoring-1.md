@@ -10,7 +10,7 @@ location: "College Station, Texas"
 
 Mentored undergraduate students in the Number Theory Research Group.
 
-**Topic:** Nonvanishing of Hecke *L*-functions <br>
+**Topic:** Nonvanishing of Hecke *L*-functions <br><br>
 **Link:** [https://www.math.tamu.edu/undergraduate/research/REU/](https://www.math.tamu.edu/undergraduate/research/REU/)
 
 <!--
