@@ -17,9 +17,9 @@ location: "Columbia, South Carolina"
 
 **Many others are highly recommended:** <br>
 1. [Michael Filaseta’s notes](http://www.math.sc.edu/~filaseta/gradcourses/TheMath784Notes.pdf) <br>
-2. J.S. Milne, Algebraic Number Theory <br>
-3. Fröhlich and Taylor, Algebraic Number Theory <br>
-4. Cassels and Fröhlich, Algebraic Number Theory
+2. J.S. Milne, *Algebraic Number Theory* <br>
+3. Fröhlich and Taylor, *Algebraic Number Theory* <br>
+4. Cassels and Fröhlich, *Algebraic Number Theory*
 
 **Course Website:** [Blackboard](https://blackboard.sc.edu/ultra/courses/_1246159_1/outline)
 
