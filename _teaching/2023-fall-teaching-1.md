@@ -16,6 +16,8 @@ week.
 
 **References:**  *Thomas’ Calculus Early Transcendentals*, 15th edition, by Joel R. Hass; Christopher E. Heil; Maurice D. Weir; Przemyslaw Bogacki
 
+**Course Website:** [Blackboard](https://blackboard.sc.edu/ultra/courses/_1238186_1/cl/outline)
+
 
 <!--
 Heading 1
