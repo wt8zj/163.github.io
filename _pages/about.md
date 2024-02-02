@@ -20,11 +20,6 @@ Hi! I'm Wei-Lun, an Assistant Professor at the University of South Carolina in t
 
 <hr class="my-horizontal-rule">
 
-**Recent Publications**
-
-
-<hr class="my-horizontal-rule">
-
 **UofSC Algebra, Geometry, and Number Theory Seminar**
 
 
