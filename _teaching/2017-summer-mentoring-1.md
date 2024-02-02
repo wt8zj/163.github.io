@@ -4,7 +4,7 @@ collection: mentoring
 type: "Undergraduate research"
 permalink: /mentoring/2017-summer-mentoring-1
 venue: "Texas A&M University, Department of Mathematics"
-date: 2017
+date: 6-7-2017
 location: "College Station, Texas"
 ---
 
