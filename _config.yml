@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "  Wei-Lun Tsai"
+  name             : "<span style="margin-right: 20px;">Wei-Lun Tsai</span>"
   avatar           : "profile.png"
   bio              :
                    - "Assistant Professor at UofSC "
