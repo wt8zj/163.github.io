@@ -23,7 +23,7 @@ redirect_from:
 * N. Khaochim, R. Masri, and W.-L. Tsai, *An effective bound for the partition function*, Research in Number Theory **5** (2019), Article number: 14. [Publisher's Version](https://link.springer.com/article/10.1007/s40993-019-0151-4).
 * A. Iannuzzi, B.D. Kim, R. Masri, A. Mathers, M. Ross, and W.-L. Tsai, *Nonvanishing of Hecke L-functions and Bloch-Kato p-Selmer groups*, Mathematical Research Letters **26** (2019), 1145--1177 [Publisher's Version](https://www.intlpress.com/site/pub/pages/journals/items/mrl/content/vols/0026/0004/a008/).
 
-Preprints (several more in preparation)
+Preprints <sub>(several more in preparation)</sub>
 ======
 * R. Masri and W.-L. Tsai, *Equidistribution of Fourier coefficients of half-integral weight Maass-Poincaré series*, submitted for publication.
 * R. Masri, F. Thorne, W.-L. Tsai and J. Wang, *Malle’s conjecture for G × A, with G = S_3, S_4, S_5*, submitted for publication ([arXiv](https://arxiv.org/abs/2004.04651)).
