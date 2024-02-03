@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi! I'm Wei-Lun Tsai, an Assistant Professor at the University of South Carolina in the Department of Mathematics. My research lies in algebraic and analytic number theory, arithmetic geometry, and combinatorics. I specialize in areas such as automorphic and modular forms, arithmetic statistics, elliptic curves, *L*-functions, number fields, and partitions in representation theory. Occasionally, I use high-performance computing in my research, and during my time at UVA, I was a frequent user of [RIVANNA](https://www.rc.virginia.edu/userinfo/rivanna/overview/) (UVA High-Performance Computing).<br>
 
-Before coming to UofSC, I served as a Research Postdoctoral Fellow at UVA. My mentor was Professor [Ken Ono](https://uva.theopenscholar.com/ken-ono/). I recently obtained my Ph.D. from Texas A&M. I was advised by Professor [Riad Masri](https://people.tamu.edu/~masri/). 
+Previously, I served as a Research Postdoctoral Fellow at UVA. My mentor was Professor [Ken Ono](https://uva.theopenscholar.com/ken-ono/). I recently obtained my Ph.D. from Texas A&M. I was advised by Professor [Riad Masri](https://people.tamu.edu/~masri/). 
 
 ***
 
