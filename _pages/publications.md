@@ -7,7 +7,6 @@ redirect_from:
 
 ---
 
-
 <!-- Add the image using raw HTML -->
 <h1 style="display: flex; justify-content: space-between;">Publications <img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/su2-distribution.gif" alt="SU2 Distribution" style="float: right; margin-left: 10px; width: 25%;"></h1>
 
