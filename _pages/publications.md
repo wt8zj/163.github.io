@@ -7,9 +7,7 @@ redirect_from:
 
 ---
 
-<!-- Add the image using raw HTML --> <img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/su2-distribution.gif" alt="SU2 Distribution" style="float: right; margin-left: 10px; width: 25%;"></h1>
-
-***
+<!-- Add the image using raw HTML --> <img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/su2-distribution.gif" alt="SU2 Distribution" style="float: right; margin-left: 10px; width: 25%;">
 
 * M.J. Griffin, K. Ono K, and W.-L. Tsai, *Distributions of hook lengths in integer partitions*, Proceedings of the American Mathematical Society, Series B, in press ([arXiv](https://arxiv.org/abs/2201.06630)).
 *  J.S. Balakrishnan, W. Craig, K. Ono, and W.-L. Tsai, *Corrigendum to variants of Lehmer’s speculation for newforms*, Advances in Mathematics **435** (2023), Part A ([arXiv](https://arxiv.org/abs/2005.10354)). [Publisher's Version](https://www.sciencedirect.com/science/article/abs/pii/S0001870823002840?via%3Dihub).
