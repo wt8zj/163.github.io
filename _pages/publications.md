@@ -1,7 +1,7 @@
 ---
 layout: archivep
 title: "Publications"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 redirect_from:
 
