@@ -6,8 +6,7 @@ author_profile: true
 redirect_from:
 
 ---
-# Publications ![SU2 Distribution](https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/su2-distribution.gif){: style="float: right; margin: 0px 0px 10px 10px; width: 25%;"}
-
+![SU2 Distribution](https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/su2-distribution.gif){: style="float: right; margin: 0px 0px 10px 10px; width: 25%;"}
 ***
 
 * M.J. Griffin, K. Ono K, and W.-L. Tsai, *Distributions of hook lengths in integer partitions*, Proceedings of the American Mathematical Society, Series B, in press ([arXiv](https://arxiv.org/abs/2201.06630)).
