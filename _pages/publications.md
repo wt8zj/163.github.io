@@ -41,11 +41,15 @@ Preprints <span style="font-size: smaller;">(several more in preparation)</span>
 Collaborators: 
 ======
 
-***
-
 * [Jennifer S. Balakrishnan](https://math.bu.edu/people/jbala/), Boston University
 * [Adrian Barquero-Sanchez](https://sites.google.com/view/adrian-barquero-sanchez/home), University of Costa Rica
 * [Will Craig](https://wcraigkoln.wixsite.com/wcraig), University of Cologne
+* 
+* [Michael J. Griffin](https://math.byu.edu/~mjgriffin/), Vanderbilt University
+* [Riad Masri](https://www.math.tamu.edu/directory/formalpg.php?user=masri), Texas A&M University
+* [Ken Ono](https://uva.theopenscholar.com/ken-ono/), University of Virginia
+* [Larry Rolen](https://math.vanderbilt.edu/rolenl/index.html), Vanderbilt University
+* [Neelam Saikia](https://sites.google.com/view/neelam-saikia/home), Indian Institute of Technology Bhubaneswar
 
 
 <!--
