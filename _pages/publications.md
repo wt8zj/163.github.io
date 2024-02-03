@@ -56,7 +56,7 @@ Collaborators
 * [Alex Mathers](https://mathweb.ucsd.edu/~amathers/), University of California San Diego
 * [Ken Ono](https://uva.theopenscholar.com/ken-ono/), University of Virginia
 * [Larry Rolen](https://math.vanderbilt.edu/rolenl/index.html), Vanderbilt University
-* [Maria Ross](https://www.math.tugraz.at/discrete/index.php?link=projects&link2=3), University of Graz
+* [Maria Ross](https://www.math.tugraz.at/discrete/index.php?link=projects&link2=3), Graz University of Technology
 * [Neelam Saikia](https://sites.google.com/view/neelam-saikia/home), Indian Institute of Technology Bhubaneswar
 * [Frank Thorne](https://thornef.github.io/), University of South Carolina
 * [Jiuya Wang](https://wangjiuya.github.io/), University of Georgia
