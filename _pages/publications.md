@@ -38,18 +38,28 @@ Preprints <span style="font-size: smaller;">(several more in preparation)</span>
 
 ***
 
-Collaborators: 
+Collaborators 
 ======
 
 * [Jennifer S. Balakrishnan](https://math.bu.edu/people/jbala/), Boston University
 * [Adrian Barquero-Sanchez](https://sites.google.com/view/adrian-barquero-sanchez/home), University of Costa Rica
 * [Will Craig](https://wcraigkoln.wixsite.com/wcraig), University of Cologne
-* 
+* [Havi Ellers](https://haviellers.netlify.app/), University of Michigan
 * [Michael J. Griffin](https://math.byu.edu/~mjgriffin/), Vanderbilt University
+* [Asimina S. Hamakiotes](https://asiminah.github.io/), University of Connecticut
+* [Arianna Iannuzzi](https://www.linkedin.com/in/arianna-iannuzzi-b7425b1b3), Lockton Companies
+* [Meagan Kenney](https://cse.umn.edu/math/meagan-kenney), University of Minnesota
+* [Narissara Khaochim](https://scholar.google.com/citations?user=_d1tNq4AAAAJ&hl=en), Phetchaburi Rajabhat University
+* [Byoung Du (B.D.) Kim](https://homepages.ecs.vuw.ac.nz/~bdkim/), Victoria University of Wellington
+* [Aaron Kriegman](https://github.com/akriegman), University of Cambridge
 * [Riad Masri](https://www.math.tamu.edu/directory/formalpg.php?user=masri), Texas A&M University
+* [Alex Mathers](https://mathweb.ucsd.edu/~amathers/), University of California San Diego
 * [Ken Ono](https://uva.theopenscholar.com/ken-ono/), University of Virginia
 * [Larry Rolen](https://math.vanderbilt.edu/rolenl/index.html), Vanderbilt University
+* [Maria Ross](https://www.math.tugraz.at/discrete/index.php?link=projects&link2=3), University of Graz
 * [Neelam Saikia](https://sites.google.com/view/neelam-saikia/home), Indian Institute of Technology Bhubaneswar
+* [Frank Thorne](https://thornef.github.io/), University of South Carolina
+* [Jiuya Wang](https://wangjiuya.github.io/), University of Georgia
 
 
 <!--
