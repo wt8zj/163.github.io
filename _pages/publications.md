@@ -43,7 +43,7 @@ Collaborators
 
 * [Jennifer S. Balakrishnan](https://math.bu.edu/people/jbala/), Boston University
 * [Adrian Barquero-Sanchez](https://sites.google.com/view/adrian-barquero-sanchez/home), University of Costa Rica
-* [Will Craig](https://wcraigkoln.wixsite.com/wcraig), University of Cologne
+* [William Craig](https://wcraigkoln.wixsite.com/wcraig), University of Cologne
 * [Havi Ellers](https://haviellers.netlify.app/), University of Michigan
 * [Michael J. Griffin](https://math.byu.edu/~mjgriffin/), Vanderbilt University
 * [Asimina S. Hamakiotes](https://asiminah.github.io/), University of Connecticut
