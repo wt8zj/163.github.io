@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
 
 ---
-![SU2 Distribution](images/su2-distribution.gif){: .align-right}
+![SU2 Distribution](https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/su2-distribution.gif){: .align-right}
+
 
 ***
 
