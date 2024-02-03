@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications" ![SU2 Distribution](https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/su2-distribution.gif){: style="float: right; margin: 0px 0px 10px 10px; width: 25%;"}
 permalink: /publications/
 author_profile: true
 redirect_from:
 
 ---
-![SU2 Distribution](https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/su2-distribution.gif){: style="float: right; margin: 0px 0px 10px 10px; width: 25%;"}
 
 ***
 
