@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
 
 ---
+![SU2 Distribution](images/su2-distribution.gif){: .align-right}
 
 ***
 
