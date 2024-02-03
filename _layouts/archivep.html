@@ -18,7 +18,13 @@ layout: default
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
-      <img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/su2-distribution.gif" alt="SU2 Distribution" style="width: 15%; margin-left: 20px;">
+      <div style="float: right; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/su2-distribution.gif" alt="GIF" style="width: 25%;">
+        <img src="https://github.com/wt8zj/163.github.io/blob/master/images/Gamma-distribution.png" alt="Gamma Distribution" style="width: 25%;">
+        <img src="https://github.com/wt8zj/163.github.io/blob/master/images/Normal-distribution.png" alt="Normal Distribution" style="width: 25%;">
+        <img src="https://github.com/wt8zj/163.github.io/blob/master/images/Gumbel-distribution.png" alt="Gumbel Distribution" style="width: 25%;">
+        <img src="https://github.com/wt8zj/163.github.io/blob/master/images/Jellyfish7.png" alt="Jellyfish" style="width: 25%;">
+      </div>
     {% endunless %}
     {{ content }}
   </div>
