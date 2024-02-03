@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 redirect_from:
 
-
-<img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/su2-distribution.gif" alt="SU2 Distribution" style="width: 25%;" align="right">
 ---
+# Publications ![SU2 Distribution](https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/su2-distribution.gif){: style="float: right; margin: 0px 0px 10px 10px; width: 25%;"}
 
 ***
 
