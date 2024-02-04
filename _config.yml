@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Assistant Professor"
   avatar           : "profile.png"
-  bio              : "<a href='https://sc.edu/study/colleges_schools/artsandsciences/mathematics/index.php'>Department of Mathematics</a>, UofSC"
-                   -# "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wei-Lun Tsai"
+  bio              : "<a href='https://sc.edu/study/colleges_schools/artsandsciences/mathematics/index.php'>Department of Mathematics, UofSC</a>"
+                   - #"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wei-Lun Tsai"
                    - #"University of South Carolina, U.S.A."
                    - #"<a href='https://sc.edu/study/colleges_schools/artsandsciences/mathematics/index.php'>Department of Mathematics</a>"
   location         : "LeConte College 450"
