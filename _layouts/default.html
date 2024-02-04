@@ -8,6 +8,7 @@ layout: compress
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
     {% include head.html %}
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | default: "HOME" }}{% endif %}</title>
     {% include head/custom.html %}
   </head>
 
