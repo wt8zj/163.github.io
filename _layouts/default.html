@@ -9,16 +9,6 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-
-    <title>
-    {% if page.title %}
-      {{ page.title | escape }}
-    {% elsif page.url == '/' %}
-      HOME
-    {% else %}
-      Wei-Lun Tsai
-    {% endif %}
-    </title>
   </head>
 
   <body>
