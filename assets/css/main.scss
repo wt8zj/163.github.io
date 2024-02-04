@@ -10,6 +10,25 @@
  *
 */
 
+/* Import statements and other global styles here */
+
+/* Larger screens styles */
+
+/* Media query for smaller screens */
+@media only screen and (max-width: 600px) {
+  /* Adjustments for smaller screens go here */
+
+  /* Example: Reduce font size */
+  body {
+    font-size: 14px;
+  }
+
+  /* Example: Modify margins or paddings */
+  .my-horizontal-rule {
+    margin: 10px 0; /* Adjust the top and bottom margins */
+  }
+}
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
