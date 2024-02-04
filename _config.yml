@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Wei-Lun Tsai"
+display_title            : "HOME"
 title_separator          : "-"
 name                     : &name "Wei-Lun Tsai"
 description              : &description "personal description"
