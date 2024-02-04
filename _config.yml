@@ -81,8 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Assistant Professor" 
-  br               : "<br>" 
+  name             : "Assistant Professor"
   avatar           : "profile.png"
   bio              : "<a href='https://sc.edu/study/colleges_schools/artsandsciences/mathematics/index.php'>Department of Mathematics</a>, UofSC"
                    -# "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wei-Lun Tsai"
