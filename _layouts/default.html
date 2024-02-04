@@ -8,7 +8,7 @@ layout: compress
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
     {% include head.html %}
-    <title>{{ page.display_title | default: HOME }}</title>
+    <title>{{ page.display_title | default: site.title }}</title>
     {% include head/custom.html %}
   </head>
 
