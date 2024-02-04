@@ -83,8 +83,9 @@ analytics:
 author:
   name             : "Assistant Professor"
   avatar           : "profile.png"
-  bio              : "<a href='https://sc.edu/study/colleges_schools/artsandsciences/mathematics/index.php'>Department of Mathematics</a>"
-                     - "<a href='https://sc.edu/'>University of South Carolina</a>"
+  bio              : | 
+                     "<a href='https://sc.edu/study/colleges_schools/artsandsciences/mathematics/index.php'>Department of Mathematics</a>"
+                     "<a href='https://sc.edu/'>University of South Carolina</a>"
   location         : "LeConte College 450"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
