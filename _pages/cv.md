@@ -24,7 +24,7 @@ Employment
     
 ***
 
-* Visiting Scientist, Auguast 2021 
+* Visiting Scientist, August 2021 
   * Max Planck Institute for Mathematics
     
 ***
