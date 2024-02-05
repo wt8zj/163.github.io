@@ -7,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+## Main Pages
+
+- [About Me](https://wt8zj.github.io/163.github.io/_pages/about/)
+- [Research](https://wt8zj.github.io/163.github.io/publications/)
+- [Teaching](https://wt8zj.github.io/163.github.io/teaching/)
+- [CV](https://wt8zj.github.io/163.github.io/cv/)
+- [Contact](https://wt8zj.github.io/163.github.io/contact/)
+
+<!--
 <!--
 <h2>Main Pages</h2>
 - [Home]({{ "/" | relative_url }})
@@ -54,3 +63,4 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% endunless %}
 {% endfor %}
 {% endfor %}
+-->
