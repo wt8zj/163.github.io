@@ -7,17 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-<div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/GC.png" alt="Your Alt Text" style="width: 70px; margin-top: 20px;">
-
-  ## Main Pages
-
-  - [About Me](https://wt8zj.github.io/163.github.io/_pages/about/)
-  - [Research](https://wt8zj.github.io/163.github.io/publications/)
-  - [Teaching](https://wt8zj.github.io/163.github.io/teaching/)
-  - [CV](https://wt8zj.github.io/163.github.io/cv/)
-  - [Contact](https://wt8zj.github.io/163.github.io/contact/)
+<div style="text-align: center; position: relative;">
+  <img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/GC.png" alt="Gamecocks" style="width: 50px; position: absolute; top: 60%; transform: translateY(-50%); right: 5%;">
 </div>
+
+## Main Pages
+
+- [About Me](https://wt8zj.github.io/163.github.io/_pages/about/)
+- [Research](https://wt8zj.github.io/163.github.io/publications/)
+- [Teaching](https://wt8zj.github.io/163.github.io/teaching/)
+- [CV](https://wt8zj.github.io/163.github.io/cv/)
+- [Contact](https://wt8zj.github.io/163.github.io/contact/)
+
 
 <!--
 
