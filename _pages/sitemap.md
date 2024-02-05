@@ -9,13 +9,15 @@ author_profile: true
 
 ## Main Pages
 
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/GC.png" alt="Your Alt Text" style="width: 50px; display: inline-block; vertical-align: middle; margin-left: 10px;">
+</div>
+
 - [About Me](https://wt8zj.github.io/163.github.io/_pages/about/)
 - [Research](https://wt8zj.github.io/163.github.io/publications/)
 - [Teaching](https://wt8zj.github.io/163.github.io/teaching/)
 - [CV](https://wt8zj.github.io/163.github.io/cv/)
 - [Contact](https://wt8zj.github.io/163.github.io/contact/)
-  
-<img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/GC.png" alt="Your Alt Text" style="width: 50px; display: block; margin: 10px auto;">
 
 
 <!--
