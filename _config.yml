@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tsai, Wei-Lun"
 display_title            : "HOME"
 title_separator          : "-"
-name                     : &name "Wei-Lun Tsai"
+name                     : &name "Tsai, Wei-Lun"
 description              : &description "personal description"
 url                      : https://wt8zj.github.io/163.github.io # the base hostname & protocol for your site e.g
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
