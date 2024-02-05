@@ -11,7 +11,7 @@ title                    : "Tsai, Wei-Lun"
 display_title            : "HOME"
 title_separator          : "-"
 name                     : &name "Tsai, Wei-Lun"
-description              : &description "personal"
+description              : &description "Hi! I’m Wei-Lun Tsai, an Assistant Professor at the University of South Carolina in the Department of Mathematics."
 url                      : https://wt8zj.github.io/163.github.io # the base hostname & protocol for your site e.g
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wt8zj/163.github.io"
