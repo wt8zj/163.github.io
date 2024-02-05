@@ -12,7 +12,7 @@ display_title            : "HOME"
 title_separator          : "-"
 name                     : &name "Wei-Lun Tsai"
 description              : &description "personal description"
-url                      : https://wt8zj.github.io/163.github.io/ # the base hostname & protocol for your site e.g
+url                      : https://wt8zj.github.io/163.github.io # the base hostname & protocol for your site e.g
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wt8zj/163.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
