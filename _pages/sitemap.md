@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+<div style="float: right; margin-left: 20px;">
+  <img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/GC.png" alt="Your Alt Text" width="200px">
+</div>
+
 ## Main Pages
 
 - [About Me](https://wt8zj.github.io/163.github.io/_pages/about/)
