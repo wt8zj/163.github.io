@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/GC.png" alt="Your Alt Text" width="30px">
+  <img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/GC.png" alt="Your Alt Text" width="100px">
 </div>
 
 ## Main Pages
