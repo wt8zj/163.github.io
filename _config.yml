@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : |
-                     &nbsp;&nbsp;<small style='font-size: 85%;'>Assistant Professor</small>
+                     &nbsp;<small style='font-size: 85%;'>Assistant Professor</small>
   avatar           : "profile.png"
   bio              : | 
                      <a href='https://sc.edu/study/colleges_schools/artsandsciences/mathematics/index.php'>Department of Mathematics</a>
