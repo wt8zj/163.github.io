@@ -8,18 +8,17 @@ author_profile: true
 {% include base_path %}
 
 
-<div style="text-align: center; position: relative; margin-top: 20px;">
-  <img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/GC.png" alt="Your Alt Text" style="width: 180px; position: absolute; top: 75%; transform: translateY(-50%); right: 3%;">
-</div>
-
-## Main Pages
+<div style="text-align: center;">
+  <h2>Main Pages</h2>
+  <img src="https://raw.githubusercontent.com/wt8zj/163.github.io/master/images/GC.png" alt="Your Alt Text" style="width: 80px; margin-top: 20px;">
 
 - [About Me](https://wt8zj.github.io/163.github.io/_pages/about/)
 - [Research](https://wt8zj.github.io/163.github.io/publications/)
 - [Teaching](https://wt8zj.github.io/163.github.io/teaching/)
 - [CV](https://wt8zj.github.io/163.github.io/cv/)
 - [Contact](https://wt8zj.github.io/163.github.io/contact/)
-
+- 
+</div>
 <!--
 
 <h2>Main Pages</h2>
