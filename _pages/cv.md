@@ -43,7 +43,12 @@ Education
 
 * B.S. & M.Sc. in Mathematics, National Taiwan University, 2007-2012
   * Advisor: [Ki-Seng Tan](http://www.math.ntu.edu.tw/en/entity_people/entity_people/21476) 
- 
+
+Gratitude
+======
+Special thanks to my mentors and advisors for their invaluable guidance and support.
+
+
 <!--
   
 Skills
