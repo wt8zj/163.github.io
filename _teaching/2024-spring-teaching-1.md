@@ -8,7 +8,7 @@ date: 2-1-2024
 location: "Columbia, South Carolina"
 ---
 
-**Course Description:** This course aims to provide an introductory exploration into algebraic numbers and algebraic integers. Algebraic number theory extends its focus beyond integers, particularly emphasizing number fields as finite algebraic extensions of *Q*. The following topics will be covered in the course as time permits: Algebraic Numbers, Algebraic Integers, Number Fields, Quadratic Fields, Cyclotomic Fields, Dedekind Domains, Maximal Orders, Factorization of Ideals, Minkowski’s Theorem, Geometry of Numbers, Ideal Classes, Dirichlet’s Unit Theorem, Artin Reciprocity, *L*-functions, Class Number Formulas,  Class Field Theory.
+**Course Description:** This course aims to provide an introductory exploration into algebraic numbers and algebraic integers. Algebraic number theory extends its focus beyond integers, particularly emphasizing number fields as finite algebraic extensions of *Q*. The following topics will be covered in the course as time permits:  Algebraic Numbers, Algebraic Integers, Number Fields, Quadratic Fields, Cyclotomic Fields, Dedekind Domains, Maximal Orders, Factorization of Ideals, Minkowski’s Theorem, Geometry of Numbers, Ideal Classes, Dirichlet’s Unit Theorem, Artin Reciprocity, *L*-functions, Class Number Formulas,  Class Field Theory.
 
 
 **References:**<br>
