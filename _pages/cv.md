@@ -10,7 +10,7 @@ cv_link: "https://raw.githubusercontent.com/wt8zj/163.github.io/master/files/Tsa
 
 
 {% include base_path %}
-<button onclick="window.open('{{ page.cv_link }}', '_blank')">Download my CV</button>
+<a href="#" onclick="window.open('{{ page.cv_link }}', '_blank'); return false;">Download my CV</a>
 
 <iframe src="{{ page.cv_link }}" width="100%" height="800px"></iframe>
 
