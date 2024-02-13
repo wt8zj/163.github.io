@@ -10,7 +10,8 @@ cv_link: "https://raw.githubusercontent.com/wt8zj/163.github.io/master/files/Tsa
 
 
 {% include base_path %}
-Download my CV [here]({{ page.cv_link }}){:target="_blank" rel="noopener noreferrer"}
+<a href="{{ page.cv_link }}" target="_blank"><button>Download my CV</button></a>
+
 
 Employment
 ======
