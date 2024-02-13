@@ -10,13 +10,8 @@ cv_link: "https://raw.githubusercontent.com/wt8zj/163.github.io/master/files/Tsa
 
 
 {% include base_path %}
-<button onclick="openCV()">Download my CV</button>
+<button onclick="window.open('{{ page.cv_link }}', '_blank')">Download my CV</button>
 
-<script>
-function openCV() {
-    window.open("{{ page.cv_link }}", "_blank");
-}
-</script>
 
 Employment
 ======
