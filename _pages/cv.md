@@ -8,12 +8,8 @@ redirect_from:
 cv_link: "https://raw.githubusercontent.com/wt8zj/163.github.io/master/files/Tsai-cv.pdf"
 ---
 
-
 {% include base_path %}
-<a href="#" onclick="window.open('{{ page.cv_link }}', '_blank'); return false;">Download my CV</a>
-
-<iframe src="{{ page.cv_link }}" width="100%" height="800px"></iframe>
-
+Download my CV [here]({{ page.cv_link }})
 
 Employment
 ======
@@ -48,6 +44,9 @@ Education
 * B.S. & M.Sc. in Mathematics, National Taiwan University, 2007-2012
   * Advisor: [Ki-Seng Tan](http://www.math.ntu.edu.tw/en/entity_people/entity_people/21476) 
 
+Gratitude
+======
+Special thanks to my mentors and advisors for their invaluable guidance and support.
 
 
 <!--
