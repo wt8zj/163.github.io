@@ -34,8 +34,8 @@ Preprints <span style="font-size: smaller;">(several more in preparation)</span>
 
 ***
 
-* R. Masri and W.-L. Tsai, *Equidistribution of Fourier coefficients of half-integral weight Maass-Poincaré series*, submitted for publication.
-* R. Masri, F. Thorne, W.-L. Tsai, and J. Wang, *Malle’s conjecture for G × A, with G = S3, S4, S5*, submitted for publication ([arXiv](https://arxiv.org/abs/2004.04651)).
+* R. Masri and W.-L. Tsai, *Equidistribution of Fourier coefficients of half-integral weight Maass-Poincaré series*, submitted.
+* R. Masri, F. Thorne, W.-L. Tsai, and J. Wang, *Malle’s conjecture for G × A, with G = S3, S4, S5*, submitted ([arXiv](https://arxiv.org/abs/2004.04651)).
 
 ***
 
