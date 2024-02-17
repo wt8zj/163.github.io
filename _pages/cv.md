@@ -9,9 +9,9 @@ cv_link: "https://wt8zj.github.io/163.github.io/files/Tsai-cv.pdf"
 ---
 
 {% include base_path %}
-Download my [CV]({{ page.cv_link }}){:target="_blank"}
+Download my CV [here]({{ page.cv_link }}){:target="_blank"}
 <!--
-Download my [CV](https://raw.githubusercontent.com/wt8zj/163.github.io/master/files/Tsai-cv.pdf){:target="_blank" onclick="window.open(this.href); return false;"}
+Download my CV [here](https://raw.githubusercontent.com/wt8zj/163.github.io/master/files/Tsai-cv.pdf){:target="_blank" onclick="window.open(this.href); return false;"}
 -->
 
 Employment
