@@ -7,9 +7,10 @@ redirect_from:
   - /resume
 cv_link: "https://raw.githubusercontent.com/wt8zj/163.github.io/master/files/Tsai-cv.pdf"
 ---
-
+<!--
 {% include base_path %}
 Download my CV [here]({{ page.cv_link }})
+-->
 [Download my CV](https://raw.githubusercontent.com/wt8zj/163.github.io/master/files/Tsai-cv.pdf){:target="_blank"}
 
 
