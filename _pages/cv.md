@@ -15,7 +15,6 @@ Download my CV [here]({{ page.cv_link }})
 Download my [CV](https://raw.githubusercontent.com/wt8zj/163.github.io/master/files/Tsai-cv.pdf){:target="_blank" onclick="window.open(this.href); return false;"}
 
 
-
 Employment
 ======
 * Assistant Professor, 2023-present
