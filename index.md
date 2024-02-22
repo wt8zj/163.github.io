@@ -10,7 +10,7 @@ Hi! I'm Wei-Lun Tsai, an Assistant Professor at the University of South Carolina
 
 <div style="text-align:center;">
   <p style="font-size: 24px; font-weight: bold;">
-    <span style="color:#800000;">Aggies</span> - <span style="color:#FF5F1F;">Wahoos</span> - <span style="color:#000000;">Gamecocks</span>
+    <span style="color:#800000;">Aggies</span> - <span style="color:#FF5F1F;">Wahoos</span> - <span style="color:#880202;">Gamecocks</span>
   </p>
 </div>
 
