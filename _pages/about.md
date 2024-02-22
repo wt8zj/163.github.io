@@ -6,9 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Wei-Lun Tsai, an Assistant Professor at the University of South Carolina. Before coming to UofSC, I served as a Research Postdoctoral Fellow at the University of Virginia. My mentor was [Ken Ono](https://uva.theopenscholar.com/ken-ono/). I recently obtained my Ph.D. from Texas A&M University. I was advised by [Riad Masri](https://www.math.tamu.edu/directory/formalpg.php?user=masri). My research lies in algebraic and analytic number theory, arithmetic geometry, and combinatorics. I specialize in areas such as automorphic and modular forms, arithmetic statistics, elliptic curves, *L*-functions, number fields, and partitions in representation theory. Occasionally, I use high-performance computing in my research, and during my time at UVA, I was a frequent user of [RIVANNA](https://www.rc.virginia.edu/userinfo/rivanna/overview/) (UVA HPC System). **Aggies - Wahoos - Gamecocks**
+Hi! I'm Wei-Lun Tsai, an Assistant Professor at the University of South Carolina. Before coming to UofSC, I served as a Research Postdoctoral Fellow at the University of Virginia. My mentor was [Ken Ono](https://uva.theopenscholar.com/ken-ono/). I recently obtained my Ph.D. from Texas A&M University. I was advised by [Riad Masri](https://www.math.tamu.edu/directory/formalpg.php?user=masri). My research primarily lies in algebraic and analytic number theory, arithmetic geometry, and combinatorics. I am especially interested in automorphic and modular forms, arithmetic statistics, elliptic curves, L-functions, number fields, and partitions in representation theory. I use high-performance computing from time to time in my research, and during my time at UVA, I was a frequent user of [RIVANNA](https://www.rc.virginia.edu/userinfo/rivanna/overview/) (UVA HPC System).
 
-***
+<div style="text-align:center;">
+  <p style="font-size: 24px; font-weight: bold;">
+    <span style="color:#800000;">Aggies</span> - <span style="color:#FF5F1F;">Wahoos</span> - <span style="color:#880202;">Gamecocks</span>
+  </p>
+</div>
 
 <hr class="my-horizontal-rule">
 
