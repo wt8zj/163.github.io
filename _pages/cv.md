@@ -45,7 +45,7 @@ Education
 ***
 
 * B.S. & M.Sc. in Mathematics, National Taiwan University, 2007-2012
-  * Advisor: Professor [Ki-Seng Tan](http://www.math.ntu.edu.tw/en/entity_people/entity_people/21476) 
+  * Advisor: Professor [Ki-Seng Tan](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=133169) 
 
 <!--
 Gratitude
