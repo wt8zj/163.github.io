@@ -42,25 +42,25 @@ Preprints <span style="font-size: smaller;">(several more in preparation)</span>
 Collaborators 
 ======
 
-* [Jennifer S. Balakrishnan](https://math.bu.edu/people/jbala/)
-* [Adrian Barquero-Sanchez](https://sites.google.com/view/adrian-barquero-sanchez/home)
-* [William Craig](https://wcraigkoln.wixsite.com/wcraig)
-* [Havi Ellers](https://haviellers.netlify.app/)
-* [Michael J. Griffin](https://math.byu.edu/~mjgriffin/)
-* [Asimina S. Hamakiotes](https://asiminah.github.io/)
-* [Arianna Iannuzzi]
-* [Meagan Kenney]
-* [Narissara Khaochim]
-* [Byoung Du (B.D.) Kim](https://homepages.ecs.vuw.ac.nz/~bdkim/)
-* [Aaron Kriegman](https://github.com/akriegman)
-* [Riad Masri](https://www.math.tamu.edu/directory/formalpg.php?user=masri)
-* [Alex Mathers](https://mathweb.ucsd.edu/~amathers/)
-* [Ken Ono](https://uva.theopenscholar.com/ken-ono/)
-* [Larry Rolen](https://math.vanderbilt.edu/rolenl/index.html)
-* [Maria Ross]
-* [Neelam Saikia](https://sites.google.com/view/neelam-saikia/home)
-* [Frank Thorne](https://thornef.github.io/)
-* [Jiuya Wang](https://wangjiuya.github.io/)
+* Jennifer S. Balakrishnan
+* Adrian Barquero-Sanchez
+* William Craig
+* Havi Ellers
+* Michael J. Griffin
+* Asimina S. Hamakiotes
+* Arianna Iannuzzi
+* Meagan Kenney
+* Narissara Khaochim
+* Byoung Du (B.D.) Kim
+* Aaron Kriegman
+* Riad Masri
+* Alex Mathers
+* Ken Ono
+* Larry Rolen
+* Maria Ross
+* Neelam Saikia
+* Frank Thorne
+* Jiuya Wang
 
 
 <!--
