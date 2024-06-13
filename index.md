@@ -13,7 +13,6 @@ Hi! I'm Wei-Lun Tsai, an Assistant Professor at the University of South Carolina
     <span style="color:#800000;">Aggies</span> - <span style="color:#FF5F1F;">Wahoos</span> - <span style="color:#880202;">Gamecocks</span>
   </p>
 </div>
-
 <hr class="my-horizontal-rule"> -->
 
 **UofSC Mathematics Department Colloquium**
