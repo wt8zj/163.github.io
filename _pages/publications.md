@@ -26,6 +26,7 @@ redirect_from:
 * H. Ellers, M. Kenney, R. Masri, and W.-L. Tsai, *Effective bounds for traces of singular moduli*, Journal of Number Theory **212** (2020), 1--17 [Publisher's Version](https://www.sciencedirect.com/science/article/abs/pii/S0022314X20300196?via%3Dihub=).
 * N. Khaochim, R. Masri, and W.-L. Tsai, *An effective bound for the partition function*, Research in Number Theory **5** (2019), Article number: 14. [Publisher's Version](https://link.springer.com/article/10.1007/s40993-019-0151-4).
 * A. Iannuzzi, B.D. Kim, R. Masri, A. Mathers, M. Ross, and W.-L. Tsai, *Nonvanishing of Hecke L-functions and Bloch-Kato p-Selmer groups*, Mathematical Research Letters **26** (2019), 1145--1177 [Publisher's Version](https://www.intlpress.com/site/pub/pages/journals/items/mrl/content/vols/0026/0004/a008/).
+* M.-J. Hao, W.-L. Tsai, and Y.-C. Tsai, *Squared envelope-based SNR estimation*, Journal of the Chinese Institute of Engineers **36** (2013), 810--818 [Publisher's Version](https://www.tandfonline.com/doi/abs/10.1080/02533839.2012.740594).
 
 ***
 
