@@ -38,7 +38,7 @@ Preprints <span style="font-size: smaller;">(several more in preparation)</span>
 * R. Masri, F. Thorne, W.-L. Tsai, and J. Wang, *Malle’s conjecture for G × A, with G = S3, S4, S5*, submitted ([arXiv](https://arxiv.org/abs/2004.04651)).
 
 ***
-
+<!--
 Collaborators 
 ======
 
@@ -61,7 +61,7 @@ Collaborators
 * Neelam Saikia
 * Frank Thorne
 * Jiuya Wang
-
+-->
 
 <!--
 {% if author.googlescholar %}
