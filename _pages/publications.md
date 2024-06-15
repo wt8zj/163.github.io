@@ -34,7 +34,6 @@ Preprints <span style="font-size: smaller;">(several more in preparation)</span>
 
 ***
 
-* T. Bhowmik and W.-L. Tsai, *Local limit theorems for hook lengths in partitions*, submitted.
 * R. Masri and W.-L. Tsai, *Equidistribution of Fourier coefficients of half-integral weight Maass-Poincaré series*, submitted.
 * R. Masri, F. Thorne, W.-L. Tsai, and J. Wang, *Malle’s conjecture for G × A, with G = S3, S4, S5*, submitted ([arXiv](https://arxiv.org/abs/2004.04651)).
 
@@ -45,7 +44,6 @@ Collaborators
 
 * Jennifer S. Balakrishnan
 * Adrian Barquero-Sanchez
-* Tapas Bhowmik
 * William Craig
 * Havi Ellers
 * Michael J. Griffin
