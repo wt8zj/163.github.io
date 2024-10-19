@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2024-fall-teaching-2
 venue: "University of South Carolina, Department of Mathematics"
-date: 8-24-2024
+date: 24-8-2024
 location: "Columbia, South Carolina"
 ---
 
