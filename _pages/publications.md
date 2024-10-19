@@ -10,6 +10,7 @@ redirect_from:
 ***
 <br>
 
+* M. van Hoeij, W.-L. Tsai, and D. Ye, *The modularity of Z.-W. Sun's conjectural formulas for 1/π*, Proceedings of the American Mathematical Society, in press.
 * M.J. Griffin, K. Ono K, and W.-L. Tsai, *Distributions of hook lengths in integer partitions*, Proceedings of the American Mathematical Society (Series B) **11** (2024), 422--435 ([arXiv](https://arxiv.org/abs/2201.06630)). [Publisher's Version](https://www.ams.org/journals/bproc/2024-11-38/S2330-1511-2024-00139-2/).
 *  J.S. Balakrishnan, W. Craig, K. Ono, and W.-L. Tsai, *Corrigendum to variants of Lehmer’s speculation for newforms*, Advances in Mathematics **435** (2023), Part A ([arXiv](https://arxiv.org/abs/2005.10354)). [Publisher's Version](https://www.sciencedirect.com/science/article/abs/pii/S0001870823002840?via%3Dihub).
 * M.J. Griffin, K. Ono, L. Rolen, and W.-L. Tsai, *Limiting Betti distributions of Hilbert schemes on n points*, Canadian Mathematical Bulletin **66** (2023), 243--258 ([arXiv](https://arxiv.org/abs/2112.05279)). [Publisher's Version](https://doi.org/10.4153/S0008439522000261).
@@ -35,6 +36,8 @@ Preprints <span style="font-size: smaller;">(several more in preparation)</span>
 
 ***
 
+* F. Beukers, W.-L. Tsai, and D. Ye, *Lucas congruences using modular forms*, submitted ([arXiv](https://arxiv.org/abs/2408.16616v1)).
+* T. Bhowmik and W.-L. Tsai, *Local limit theorems for hook lengths in partitions*, submitted.
 * R. Masri and W.-L. Tsai, *Equidistribution of Fourier coefficients of half-integral weight Maass-Poincaré series*, submitted.
 * R. Masri, F. Thorne, W.-L. Tsai, and J. Wang, *Malle’s conjecture for G × A, with G = S3, S4, S5*, submitted ([arXiv](https://arxiv.org/abs/2004.04651)).
 
