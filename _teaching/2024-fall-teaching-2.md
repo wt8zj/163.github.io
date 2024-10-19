@@ -8,20 +8,24 @@ date: 24-8-2024
 location: "Columbia, South Carolina"
 ---
 
-**Course Description:** This course aims to provide an introductory exploration into algebraic numbers and algebraic integers. Algebraic number theory extends its focus beyond integers, particularly emphasizing number fields as finite algebraic extensions of *Q*. The following topics will be covered in the course as time permits: Algebraic Numbers/Integers, Number Fields, Quadratic Fields, Cyclotomic Fields, Dedekind Domains, Orders, Factorization of Ideals, Minkowski’s Theorem, Geometry of Numbers, Ideal Classes, Dirichlet’s Unit Theorem, Splitting of Prime Ideals, Artin Reciprocity, *L*-functions, Class Number Formulas, and Class Field Theory.
+**Course Description:** Algebra is a key discipline within mathematics and is likely to be integral to any
+research field you choose during your graduate studies. The Math 701/702 sequence aims to give you
+a comprehensive introduction to algebra and equip you with a robust foundation for exploring more
+complex topics in the future. Through numerous examples, problem-solving exercises, and proofs,
+you will hone your algebraic intuition. Another key objective of this course is to prepare you for the
+Algebra Qualifying Exam. In Math 701, we will start by revisiting group theory before progressing to
+more advanced subjects. Later in the course, we will shift our focus to ring theory. We plan to explore
+Chapters 1-9 of Dummit and Foote, though not every section will be covered
 
 
 **References:**<br>
-                     1. Daniel A. Marcus, *Number Fields*. Springer Cham (2nd edition) 2018 <br>
-                     2. Jürgen Neukirch, *Algebraic Number Theory*. Springer Berlin, Heidelberg 1999
+                     Dummit and Foote, *Abstract Algebra*, 3rd Edition <br>
 
 **Many others are highly recommended:**<br>
-                                              1. [Michael Filaseta’s notes](http://www.math.sc.edu/~filaseta/gradcourses/TheMath784Notes.pdf) <br>
-                                              2. J.S. Milne, [*Algebraic Number Theory*](https://www.jmilne.org/math/CourseNotes/ANT.pdf) <br>
-                                              3. Fröhlich and Taylor, *Algebraic Number Theory* <br>
-                                              4. Cassels and Fröhlich, *Algebraic Number Theory*
-
-**Course Website:** [Blackboard](https://blackboard.sc.edu/ultra/courses/_1246159_1/outline)
+                                              1. Jacobson, *Basic Algebra I*, 2nd Edition <br>
+                                              2. Hungerford, *Algebra*, 8th Edition <br>
+                                             
+**Course Website:** [Blackboard](https://blackboard.sc.edu/ultra/courses/_1268087_1/outline)
 
 
 <!--
