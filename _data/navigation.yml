@@ -11,7 +11,6 @@ main:
     
  # - title: "Portfolio"
  #   url: /portfolio/
-        
  # - title: "Blog Posts"
  #   url: /year-archive/
     
@@ -21,5 +20,5 @@ main:
   - title: "Contact"
     url: /contact/
     
- - title: "PANTS"
-   url: /pants/
+ -  title: "PANTS"
+    url: /pants/
