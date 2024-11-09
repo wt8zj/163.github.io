@@ -4,13 +4,11 @@
 
 .page__footer {
   @include clearfix;
-  width: 100vw; /* Ensure the footer spans the entire viewport width */
-  position: fixed; /* Fix the footer at the bottom of the viewport */
-  bottom: 0;
-  left: 0; /* Ensure the footer starts from the left edge */
-  margin: 0; /* Remove any margin */
-  padding: 1em 0; /* Add padding if needed */
-  clear: both;
+  width: 100%; /* Ensure the footer spans the entire width */
+  position: relative; /* Default positioning */
+  clear: both; /* Ensure the footer clears any floated content */
+  margin-top: 3em; /* Add some space before the footer */
+  padding: 1em 0; /* Add padding to the footer */
   background-color: $lighter-gray;
   border-top: 1px solid $light-gray;
   color: mix(#fff, $gray, 25%);
