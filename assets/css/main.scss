@@ -67,3 +67,16 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+/* Flexbox layout for the page container */
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Flex-grow the content so it takes up all available space */
+.content {
+  flex: 1;
+}
+
