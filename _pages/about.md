@@ -36,7 +36,8 @@ Hi! I'm Wei-Lun Tsai, an Assistant Professor at the University of South Carolina
 
 **Recent Publications**
 
-* M. van Hoeij, W.-L. Tsai, and D. Ye, *The modularity of Z.-W. Sun's conjectural formulas for 1/π*, Proceedings of the American Mathematical Society, in press.
+* F. Beukers, W.-L. Tsai, and D. Ye, *Lucas congruences using modular forms*, Bulletin of the London Mathematical Society, in press ([arXiv](https://arxiv.org/abs/2408.16616v2)).
+* M. van Hoeij, W.-L. Tsai, and D. Ye, *The modularity of Z.-W. Sun's conjectural formulas for 1/π*, Proceedings of the American Mathematical Society, in press ([arXiv](https://arxiv.org/abs/2410.19289v2)).
 * M.J. Griffin, K. Ono, and W.-L. Tsai, *Distributions of hook lengths in integer partitions*, Proceedings of the American Mathematical Society (Series B) **11** (2024), 422--435 ([arXiv](https://arxiv.org/abs/2201.06630)). [Publisher's Version](https://www.ams.org/journals/bproc/2024-11-38/S2330-1511-2024-00139-2/).
 * J.S. Balakrishnan, W. Craig, K. Ono, and W.-L. Tsai, *Variants of Lehmer’s speculation for newforms*, Advances in Mathematics **428** (2023), 109--141 ([arXiv](https://arxiv.org/abs/2005.10354)). [Publisher's Version](https://doi.org/10.1016/j.aim.2023.109141).
 * J.S. Balakrishnan, K. Ono, and W.-L. Tsai, *Even values of Ramanujan’s tau-function*, La Matematica **1** (2022), 395--403 ([arXiv](https://arxiv.org/abs/2102.00111)). [Publisher's Version](https://link.springer.com/article/10.1007/s44007-021-00005-8).
