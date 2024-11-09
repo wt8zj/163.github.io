@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ***
-<be>
+<br>
 
 * F. Beukers, W.-L. Tsai, and D. Ye, *Lucas congruences using modular forms*, Bulletin of the London Mathematical Society, in press ([arXiv](https://arxiv.org/abs/2408.16616v2)).
 * M. van Hoeij, W.-L. Tsai, and D. Ye, *The modularity of Z.-W. Sun's conjectural formulas for 1/π*, Proceedings of the American Mathematical Society, in press ([arXiv](https://arxiv.org/abs/2410.19289v2)).
