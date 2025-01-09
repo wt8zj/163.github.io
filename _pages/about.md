@@ -44,7 +44,7 @@ Hi! I'm Wei-Lun Tsai, an Assistant Professor at the University of South Carolina
 * J.S. Balakrishnan, W. Craig, K. Ono, and W.-L. Tsai, *Variants of Lehmer’s speculation for newforms*, Advances in Mathematics **428** (2023), 109--141 ([arXiv](https://arxiv.org/abs/2005.10354)). [Publisher's Version](https://doi.org/10.1016/j.aim.2023.109141).
 * J.S. Balakrishnan, K. Ono, and W.-L. Tsai, *Even values of Ramanujan’s tau-function*, La Matematica **1** (2022), 395--403 ([arXiv](https://arxiv.org/abs/2102.00111)). [Publisher's Version](https://link.springer.com/article/10.1007/s44007-021-00005-8).
 * R. Masri and W.-L. Tsai, *Equidistribution of Fourier coefficients of integral weight Maass-Poincaré series*, Advances in Mathematics **409** (2022), Part A. [Publisher's Version](https://www.sciencedirect.com/science/article/abs/pii/S0001870822004546).
-* M.J. Griffin, K. Ono, and W.-L. Tsai, *Tamagawa products of elliptic curves over Q*, The Quarterly Journal of Mathematics (Oxford) [Sir Michael Atiyah Memorial Issue] **72** (2021), 1517--1543 ([arXiv](https://arxiv.org/abs/2105.03513)). [Publisher's Version](https://academic.oup.com/qjmath/article-abstract/72/4/1517/6382235?redirectedFrom=fulltext).
+
 
 <sub style="font-size: medium;"><strong>&#10148; <strong>[More](https://wt8zj.github.io/163.github.io/publications/)</strong></strong></sub>
 
