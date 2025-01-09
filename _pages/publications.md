@@ -10,8 +10,10 @@ redirect_from:
 ***
 <br>
 
+* M. Merca, K. Ono, and W.-L. Tsai, *Do perfect powers repel partition numbers? *, Annals of the Academy of Romanian Scientists, in press ([arXiv](https://arxiv.org/abs/2501.03754v1)).
 * F. Beukers, W.-L. Tsai, and D. Ye, *Lucas congruences using modular forms*, Bulletin of the London Mathematical Society, in press ([arXiv](https://arxiv.org/abs/2408.16616v2)).
 * M. van Hoeij, W.-L. Tsai, and D. Ye, *The modularity of Z.-W. Sun's conjectural formulas for 1/π*, Proceedings of the American Mathematical Society, in press ([arXiv](https://arxiv.org/abs/2410.19289v2)).
+* T. Bhowmik and W.-L. Tsai, *Local limit theorems for hook lengths in partitions*, Annals of Combinatorics, in press.
 * M.J. Griffin, K. Ono K, and W.-L. Tsai, *Distributions of hook lengths in integer partitions*, Proceedings of the American Mathematical Society (Series B) **11** (2024), 422--435 ([arXiv](https://arxiv.org/abs/2201.06630)). [Publisher's Version](https://www.ams.org/journals/bproc/2024-11-38/S2330-1511-2024-00139-2/).
 * J.S. Balakrishnan, W. Craig, K. Ono, and W.-L. Tsai, *Corrigendum to variants of Lehmer’s speculation for newforms*, Advances in Mathematics **435** (2023), Part A ([arXiv](https://arxiv.org/abs/2005.10354)). [Publisher's Version](https://doi.org/10.1016/j.aim.2023.109347).
 * M.J. Griffin, K. Ono, L. Rolen, and W.-L. Tsai, *Limiting Betti distributions of Hilbert schemes on n points*, Canadian Mathematical Bulletin **66** (2023), 243--258 ([arXiv](https://arxiv.org/abs/2112.05279)). [Publisher's Version](https://doi.org/10.4153/S0008439522000261).
@@ -37,7 +39,7 @@ Preprints <span style="font-size: smaller;">(several more in preparation)</span>
 
 ***
 
-* T. Bhowmik and W.-L. Tsai, *Local limit theorems for hook lengths in partitions*, submitted.
+* T. Bhowmik, W.-L. Tsai and D. Ye, *Euler-type recurrences for t-color and t-regular partition functions,*, submitted ([arXiv](https://arxiv.org/abs/2412.14344v2)).
 * R. Masri and W.-L. Tsai, *Equidistribution of Fourier coefficients of half-integral weight Maass-Poincaré series*, submitted.
 * R. Masri, F. Thorne, W.-L. Tsai, and J. Wang, *Malle’s conjecture for G × A, with G = S3, S4, S5*, submitted ([arXiv](https://arxiv.org/abs/2004.04651)).
 
