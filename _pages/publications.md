@@ -10,7 +10,7 @@ redirect_from:
 ***
 <br>
 
-* M. Merca, K. Ono, and W.-L. Tsai, *Do perfect powers repel partition numbers? *, Annals of the Academy of Romanian Scientists, in press ([arXiv](https://arxiv.org/abs/2501.03754v1)).
+* M. Merca, K. Ono, and W.-L. Tsai, *Do perfect powers repel partition numbers?*, Annals of the Academy of Romanian Scientists, in press ([arXiv](https://arxiv.org/abs/2501.03754v1)).
 * F. Beukers, W.-L. Tsai, and D. Ye, *Lucas congruences using modular forms*, Bulletin of the London Mathematical Society, in press ([arXiv](https://arxiv.org/abs/2408.16616v2)).
 * M. van Hoeij, W.-L. Tsai, and D. Ye, *The modularity of Z.-W. Sun's conjectural formulas for 1/π*, Proceedings of the American Mathematical Society, in press ([arXiv](https://arxiv.org/abs/2410.19289v2)).
 * T. Bhowmik and W.-L. Tsai, *Local limit theorems for hook lengths in partitions*, Annals of Combinatorics, in press.
@@ -39,7 +39,7 @@ Preprints <span style="font-size: smaller;">(several more in preparation)</span>
 
 ***
 
-* T. Bhowmik, W.-L. Tsai, and D. Ye, *Euler-type recurrences for t-color and t-regular partition functions,*, submitted ([arXiv](https://arxiv.org/abs/2412.14344v2)).
+* T. Bhowmik, W.-L. Tsai, and D. Ye, *Euler-type recurrences for t-color and t-regular partition functions*, submitted ([arXiv](https://arxiv.org/abs/2412.14344v2)).
 * R. Masri and W.-L. Tsai, *Equidistribution of Fourier coefficients of half-integral weight Maass-Poincaré series*, submitted.
 * R. Masri, F. Thorne, W.-L. Tsai, and J. Wang, *Malle’s conjecture for G × A, with G = S3, S4, S5*, submitted ([arXiv](https://arxiv.org/abs/2004.04651)).
 
