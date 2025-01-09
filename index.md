@@ -29,7 +29,7 @@ Hi! I'm Wei-Lun Tsai, an Assistant Professor at the University of South Carolina
 **Recent Publications**
 
 
-* M. Merca, K. Ono, and W.-L. Tsai, *Do perfect powers repel partition numbers? *, Annals of the Academy of Romanian Scientists, in press ([arXiv](https://arxiv.org/abs/2501.03754v1)).
+* M. Merca, K. Ono, and W.-L. Tsai, *Do perfect powers repel partition numbers?*, Annals of the Academy of Romanian Scientists, in press ([arXiv](https://arxiv.org/abs/2501.03754v1)).
 * F. Beukers, W.-L. Tsai, and D. Ye, *Lucas congruences using modular forms*, Bulletin of the London Mathematical Society, in press ([arXiv](https://arxiv.org/abs/2408.16616v2)).
 * M. van Hoeij, W.-L. Tsai, and D. Ye, *The modularity of Z.-W. Sun's conjectural formulas for 1/π*, Proceedings of the American Mathematical Society, in press ([arXiv](https://arxiv.org/abs/2410.19289v2)).
 * T. Bhowmik and W.-L. Tsai, *Local limit theorems for hook lengths in partitions*, Annals of Combinatorics, in press.
