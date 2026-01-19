@@ -40,7 +40,7 @@ Education
 ======
 * Ph.D. in Mathematics, Texas A&M University, 2015-2020
   * Thesis Title: *The distribution of Fourier coefficients of weak Maass forms*
-  * Advisor: Professor [Riad Masri](https://www.math.tamu.edu/directory/formalpg.php?user=masri)
+  * Advisor: Professor [Riad Masri](https://artsci.tamu.edu/mathematics/contact/profiles/riad-masri.html)
   
 ***
 
