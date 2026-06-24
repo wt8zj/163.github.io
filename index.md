@@ -23,7 +23,7 @@ Hi! I'm Wei-Lun Tsai, an Assistant Professor at the University of South Carolina
 
 
 <hr class="my-horizontal-rule">
-
+<!--
 ***
 
 **Recent Publications**
@@ -41,7 +41,7 @@ Hi! I'm Wei-Lun Tsai, an Assistant Professor at the University of South Carolina
 
 <sub style="font-size: medium;"><strong>&#10148; <strong>[More](https://wt8zj.github.io/163.github.io/publications/)</strong></strong></sub>
 
-
+-->
 
 <!--
 
