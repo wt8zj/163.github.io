@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
 
 ---
+***
 
 * M. Merca, K. Ono, and W.-L. Tsai, *Do perfect powers repel partition numbers?*, Annals of the Academy of Romanian Scientists [Haim Brezis Memorial Issue], in press ([arXiv](https://arxiv.org/abs/2501.03754)).
 * F. Beukers, W.-L. Tsai, and D. Ye, *Lucas congruences using modular forms*, Bulletin of the London Mathematical Society, in press ([arXiv](https://arxiv.org/abs/2408.16616v2)).
